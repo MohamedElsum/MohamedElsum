@@ -1,30 +1,40 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elsum</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+# Hi, I'm Mohamed Elsum 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelsum&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelsum" /> </p>
+**Flutter Developer** · 3+ years shipping production Android & iOS apps · Cairo, Egypt (GMT+2) · **Open to remote**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelsum" alt="mohamedelsum" /></a> </p>
+I build Flutter apps that stay fast and stable in production — point of sale, HR, healthcare, insurance and e-commerce, in both Arabic (RTL) and English.
 
-- 🌱 I’m currently learning **architectural patterns, advanced flutter libraries.**
+### 🚀 What I've shipped
 
-- 💬 Ask me about **dart, flutter, firebase, java.**
+| App | Domain | Highlights |
+|---|---|---|
+| **7L POS** | Point of Sale | 1,000+ daily transactions · real-time inventory · sales analytics · CSV/PDF/Excel reports |
+| **Oasis HR Portal** | HR | Employee self-service · payroll & deductions · insurance claims tracking |
+| **Oasis Patient App** | Healthcare | Appointment booking & rescheduling · secure patient records |
+| **Nilein Insurance** | Insurance | Clinic directory with search, filters and map-based locations |
+| **Salla** | E-commerce | Cart, secure checkout, order tracking, product reviews |
 
-- 📫 How to reach me **mohamedelsum9797@gmail.com**
+👉 Screenshots and case studies: **[mohamed-elsum.vercel.app](https://mohamed-elsum.vercel.app/)**
 
-- 📄 Know about my experiences [https://www.mediafire.com/file/t4gvvpy18n82eoz/MohamedElsum.pdf/file](https://www.mediafire.com/file/t4gvvpy18n82eoz/MohamedElsum.pdf/file)
+### 📈 Impact
 
-- ⚡ Fun fact **You can spell World Wide Web faster than WWW 😛**
+- ⚡ **40% faster load times** by cutting unnecessary widget rebuilds
+- 🛡️ **25% fewer production crashes** through better state management
+- 📲 **10,000+ downloads** across apps published on Google Play & the App Store
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed elsum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elsum" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed elsum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed elsum" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Core:** Flutter · Dart · Clean Architecture
+**State management:** Bloc · Cubit · Provider · GetX
+**Networking:** REST APIs · Dio · JSON
+**Firebase:** Auth · Firestore · Realtime Database · Cloud Messaging
+**Local data:** Hive · SQLite · SharedPreferences
+**Navigation:** GoRouter · Navigator 2.0
+**Delivery:** Git · GitHub · Play Console · App Store Connect
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelsum&show_icons=true&locale=en&layout=compact" alt="mohamedelsum" /></p>
+### 📫 Get in touch
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedelsum&show_icons=true&locale=en" alt="mohamedelsum" /></p>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b0b10?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-elsum.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsum-36760a11b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelsam93@gmail.com)
+[![CV](https://img.shields.io/badge/Download_CV-02569B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mohamed-elsum.vercel.app/Mohamed_Elsum_CV.pdf)
